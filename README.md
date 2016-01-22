@@ -5,7 +5,7 @@
 - Instructions (must have root access):
 
 ```bash
-wget https://raw.githubusercontent.com/gabrielPav/centos-lamp/master/lemp.sh
+wget https://raw.githubusercontent.com/gabrielPav/centos-lamp/master/lamp.sh
 chmod +x lemp.sh
 sh lemp.sh
 ```
